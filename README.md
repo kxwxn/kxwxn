@@ -3,7 +3,7 @@
 # **<center>🪩 I'm so happy to have youse here :) 🪩</center>**
 ***
 # 👨🏻‍💻 Oh,you mean myself?
-## *I'm on web developement currently(frontend) but i want to be called as a browser developer fka a client developer. therefore i do seek libraries that can be used in browsers, mostly interested stuffs that use  <img src="https://img.shields.io/badge/WebGl-990000?style=flat-square&logo=webgl&logoColor=ffffff"/>*
+## *I'm on web developement currently(frontend) but i want to be called as a browser developer FKA a client developer. therefore i do seek libraries that can be used in browsers, mostly interested stuffs that use  <img src="https://img.shields.io/badge/WebGl-990000?style=flat-square&logo=webgl&logoColor=ffffff"/>*
 ***
 # 🧠 The whole idead of this space is...
 ## This is a space where you can probably get some ideas of how building up WEB applications using open APIs, such as Open Data APIs from companies. but i am still figuring out what i can do with the data that i can get free from companies offering as an open API
