@@ -26,6 +26,9 @@
 ### WEB Application Framework
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff"/>
 
+### WEB Build System Tool
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff"/>
+
 ### Bankend as a Service Framework
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000"/>
 
@@ -34,6 +37,7 @@
 
 ### Javascript Package Manager
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Yarn-2c8ebb?style=flat-square&logo=yarn&logoColor=000000"/>
 
 ### Open APIs
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=000000"/><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=000000"/>
