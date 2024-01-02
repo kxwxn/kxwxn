@@ -8,7 +8,7 @@
 # 🧠 The whole idead of this space is...
 ## This is a space where you can probably get some ideas of how building up WEB applications using open APIs, such as Open Data APIs from companies. but i am still figuring out what i can do with the data that i can get free from companies offering as an open API
 #### As you can see there's still lots of voids in this space here, but trying to get rid of the voids here as much as i can but gradually, so just swing by time to time to check out what's updated! ;) 
-##### and yes plus , i'm so up for cowork with you all , if we both have what what we need from each other, just <a href="mailto:kxwxn@icloud.com"><img src="https://img.shields.io/badge/email-30B980?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:kxwxn@icloud.com"/></a> me ! 
+##### and yes plus , i'm so up for cowork with you all , if we both have what what we need from each other, just <a href="mailto:kxwxn@icloud.com"><img src="https://img.shields.io/badge/email-FFE01B?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:kxwxn@icloud.com"/></a> me ! 
 ***
 
 ## 🖥️ Main Stacks
