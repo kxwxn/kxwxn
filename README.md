@@ -2,16 +2,16 @@
 
 # **<center>🪩 I'm so happy to have youse here :) 🪩</center>**
 ***
-# 👨🏻‍💻 Oh,you mean myself?
+# 👨🏻‍💻 Oh,you mean myself? 👨🏻‍💻
 ## *I'm on web developement currently(frontend) but i want to be called as a browser developer FKA a client developer. therefore i do seek libraries that can be used in browsers, mostly interested stuffs that use  <img src="https://img.shields.io/badge/WebGl-990000?style=flat-square&logo=webgl&logoColor=ffffff"/>*
 ***
-# 🧠 The whole idead of this space is...
+# 🧠 The whole idead of this space is... 🧠
 ## This is a space where you can probably get some ideas of how building up WEB applications using open APIs, such as Open Data APIs from companies. but i am still figuring out what i can do with the data that i can get free from companies offering as an open API
 #### As you can see there's still lots of voids in this space here, but trying to get rid of the voids here as much as i can but gradually, so just swing by time to time to check out what's updated! ;) 
 ##### and yes plus , i'm so up for cowork with you all , if we both have what what we need from each other, just <a href="mailto:kxwxn@icloud.com"><img src="https://img.shields.io/badge/email-FFE01B?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:kxwxn@icloud.com"/></a> me ! 
 ***
 
-## 🖥️ Main Stacks
+## 🖥️ Main Stacks 🖥️
 ### Markup Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=000000"/><img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=DB7093"/><img src="https://img.shields.io/badge/CSSModules-000000?style=flat-square&logo=cssmodules&logoColor=fffff"/>
 ### Programming Language
@@ -38,4 +38,7 @@
 ### Open APIs
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=000000"/><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=000000"/>
 ***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxwxn&layout=compact&theme=dark)
+
+![kxwxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxwxn&show_icons=true&theme=dark)
 </div>
