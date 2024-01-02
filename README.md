@@ -38,6 +38,8 @@
 ### Open APIs
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=000000"/><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=000000"/>
 ***
+## 📈Total Stats📉
+#### i'm trying not to be ashamed of my stats...😢
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxwxn&layout=compact&theme=dark)
 
 ![kxwxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxwxn&show_icons=true&theme=dark)
