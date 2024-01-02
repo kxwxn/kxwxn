@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"/>
 
 ### State Management
-<img src="https://img.shields.io/badge/🐻  Zustand-8A2BE2"/><img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=000000"/><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=000000"/>
+<img src="https://img.shields.io/badge/🐻  Zustand-8A2BE2"/><img src="https://img.shields.io/badge/TanstackQuery-FF4154?style=flat-square&logo=tanstackquery&logoColor=000000"/><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=000000"/>
 
 ### WEB Application Framework
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff"/>
