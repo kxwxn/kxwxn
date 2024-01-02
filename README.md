@@ -1,4 +1,6 @@
-# **🪩 I'm so happy to have youse here :) 🪩**
+<div align="center">
+
+# **<center>🪩 I'm so happy to have youse here :) 🪩</center>**
 ***
 # 👨🏻‍💻 Oh,you mean myself?
 ## *I'm on web developement currently(frontend) but i want to be called as a browser developer fka a client developer. therefore i do seek libraries that can be used in browsers, mostly interested stuffs that use  <img src="https://img.shields.io/badge/WebGl-990000?style=flat-square&logo=webgl&logoColor=ffffff"/>*
@@ -34,4 +36,4 @@
 ### Open APIs
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff"/><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=000000"/><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=000000"/>
 ***
-
+</div>
