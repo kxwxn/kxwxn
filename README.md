@@ -15,7 +15,8 @@
 ### Markup Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=000000"/><img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=DB7093"/><img src="https://img.shields.io/badge/CSSModules-000000?style=flat-square&logo=cssmodules&logoColor=fffff"/>
 ### Programming Language
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/><img src="https://camo.githubusercontent.com/e86535a9f29b8cf2c116edb0c42b521267f9b8455c52df9fa538b0b423d06ff0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d54797065736372697074266c6f676f436f6c6f723d7768697465"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 
 ### WEB framwork
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"/><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
