@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green-animate.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxwxn&layout=compact&theme=dark)
 
